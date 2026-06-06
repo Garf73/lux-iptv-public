@@ -6,5 +6,5 @@ https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau24" group-title="Online-Test",Tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
-#EXTINF:-1 tvg-id="france24.fr" tvg-name="France 24 Français" group-title="Online-Test",France 24 Français
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="France 24 TEST" group-title="Online-Test",France 24 TEST
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
